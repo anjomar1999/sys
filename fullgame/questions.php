@@ -1,0 +1,104 @@
+<?php
+$questions = [
+    [
+        "question" => "____ is a dishonest trick used to cheat people out of their money, personal information, or valuables",
+        "options"  => ["A) Scam", "B) Magic", "C) Modus", "D) All of the above"],
+        "answer"   => "A"
+    ],
+    [
+        "question" => "____ keeps your information safe from hackers, viruses, and other online threats",
+        "options"  => ["A) Police", "B) Government", "C) Cybersecurity", "D) All of the above"],
+        "answer"   => "C"
+    ],
+    [
+        "question" => "_____ is about keeping your personal information safe from unauthorized access",
+        "options"  => ["A) Data", "B) Data Privacy", "C) Vault", "D) All of the above"],
+        "answer"   => "B"
+    ],
+    [
+        "question" => "Goal of Cybersecurity",
+        "options"  => ["A) To make computers faster", "B) To create more social media accounts", "C) To increase internet speed", "D) Protect businesses and individuals from financial loss, identity theft, and downtime."],
+        "answer"   => "D"
+    ],
+    [
+        "question" => "Goal of Data Security",
+        "options"  => ["A) To make data available to everyone", "B) Protect personal information from being misused, shared without consent, or exposed inappropriately.", "C) To allow companies to sell more products", "D) None of the above"],
+        "answer"   => "B"
+    ],
+    [
+        "question" => "Individual who use scams and phishing attacks to steal personal information, login credentials, and financial details.",
+        "options"  => ["A) Cybercriminals", "B) People who create video games", "C) Computer and software Vendor", "D) People who protect computers from viruses"],
+        "answer"   => "A"
+    ],
+    [
+        "question" => "Fake emails from Banks, Gcash, Companies or Services ask you to verify your account or update payment details.",
+        "options"  => ["A) Fish Vendor", "B) Email greetings", "C) Free online gmes", "D) Phishing emails and messages"],
+        "answer"   => "D"
+    ],
+    [
+        "question" => "How to spot Phishing Email",
+        "options"  => ["A) Requests for login credentials or personal information", "B) The email contains no links or attachments", "C) Need bait", "D) None of the above"],
+        "answer"   => "A"
+    ],
+    [
+        "question" => "Click links or download attachments from unknown emails.",
+        "options"  => ["A) True", "B) Flase"],
+        "answer"   => "B"
+    ],
+    [
+        "question" => "What is the Oben Group Standard Password",
+        "options"  => ["A) 10 Characters long", "B) 12 Characters long", "C) 14 Characters long", "D) Any"],
+        "answer"   => "C"
+    ],
+    [
+        "question" => "Ensure periodic changing of passwords to all applications every 60days",
+        "options"  =>  ["A) True", "B) Flase"],
+        "answer"   => "A"
+    ],
+    [
+        "question" => "Includes a mix of uppercase and lowercase letters, numbers, and special characters when creating a password",
+        "options"  => ["A) True", "B) Flase"],
+        "answer"   => "A"
+    ],
+    [
+        "question" => "Use common words, phrases, and easily guessable information (e.g., birthdays, names) when creating a password",
+        "options"  => ["A) True", "B) Flase"],
+        "answer"   => "B"
+    ],
+    [
+        "question" => "What to do when you receive Phishing Email:",
+        "options"  => ["A) Ignore and do not provide Personal Information", "B) Reply with your username and password", "C) Immediately send personal information", "D) Share email to your friends"],
+        "answer"   => "A"
+    ],
+    [
+        "question" => "____ ask for personal details or a small fee to claim your reward",
+        "options"  => ["A) Modus", "B) Thieft", "C) Fake Giveaways & Lottery Scams", "D) None of the above"],
+        "answer"   => "C"
+    ],
+    [
+        "question" => "How to spot Fake Giveaways & Lottery Scams",
+        "options"  => ["A) You are asked to pay a fee to claim your prize", "B) The prize details are clearly explained.", "C) You personally entered the contest recently", "D) You are notified through official company channel"],
+        "answer"   => "A"
+    ],
+    [
+        "question" => "They claim your device has a virus and ask you to call a support number or install software",
+        "options"  => ["A) Lottery scams", "B) Tech Support Scams", "C) Virus", "D) Malware"],
+        "answer"   => "B"
+    ],
+    [
+        "question" => "How to spot Tech Support Scams",
+        "options"  => ["A) The message is from a trusted tech company", "B) The person offering help requests only your email address", "C) Fake calls Requests for remote access to your device.", "D) None of the Above"],
+        "answer"   => "C"
+    ],
+    [
+        "question" => "___  is a type of fraud where scammers impersonate legitimate technology companies to trick individuals into believing there is a serious problem with your computer, smartphone, or online accounts.",
+        "options"  => ["A) Hacker", "B) Technical Support Scams", "C) Virus", "D) None of the Above"],
+        "answer"   => "B"
+    ],
+    [
+        "question" => "What to do when you receive sms from a Technical Support Scam.",
+        "options"  => ["A) Ask his bank account details", "B) Made a payment", "C) Do NOT Call the Number or reply to the message or Click Links.", "D) None of the above"],
+        "answer"   => "C"
+    ]
+    // Add more questions as needed...
+];
